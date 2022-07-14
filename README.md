@@ -1,3 +1,3 @@
 # tinDog-start
-learning code
-web development bootcamp
+
+This is my exercise of web development: html, css, bootstrap.
